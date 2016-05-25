@@ -1,0 +1,10 @@
+{
+    "name": "yuyii/test1",
+    "authors": [
+        {
+            "name": "yuyii",
+            "email": "yuyii.x@gmail.com"
+        }
+    ],
+    "require": {}
+}
