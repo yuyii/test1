@@ -6,5 +6,10 @@
             "email": "yuyii.x@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "yuyii\\Test1\\": "src"
+        }
+    },
 }
